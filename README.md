@@ -26,7 +26,7 @@ Static portfolio website optimized for GitHub Pages.
    - Branch: `main` / `(root)`
    - Click Save
 
-5. Your site will be live at `https://aceatdev.github.io` 🎉
+5. Your site will be live at `https://aceatdev.github.io/my-website` 🎉
 
 ## 📁 File Structure
 
@@ -82,7 +82,7 @@ Search and replace in `index.html`:
 ## 📊 After Deployment
 
 1. **Submit to Google Search Console**: https://search.google.com/search-console
-2. **Submit sitemap**: `https://aceatdev.github.io/sitemap.xml`
+2. **Submit sitemap**: `https://aceatdev.github.io/my-website/sitemap.xml`
 3. **Test with Lighthouse**: Open DevTools → Lighthouse tab → Generate report
 
 ## 📝 License
