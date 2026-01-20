@@ -1,9 +1,9 @@
-# https://aceatdev.github.io robots.txt
+# https://aceatdev.github.io/my-website robots.txt
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://aceatdev.github.io/sitemap.xml
+Sitemap: https://aceatdev.github.io/my-website/sitemap.xml
 
 # Crawl-delay (optional, be nice to crawlers)
 Crawl-delay: 1
